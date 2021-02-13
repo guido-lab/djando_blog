@@ -1,4 +1,4 @@
-# django-blog
+# Django Blog
 
 ## How to setup:
 Clone This Project (Make Sure You Have Git Installed)
